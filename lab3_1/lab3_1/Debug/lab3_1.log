@@ -1,0 +1,3 @@
+﻿  1.cpp
+d:\рабочий стол\настя\oc\lab3_1\lab3_1\1.cpp(6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab3_1.vcxproj -> D:\рабочий стол\настя\OC\lab3_1\Debug\lab3_1.exe
